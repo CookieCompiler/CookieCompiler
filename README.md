@@ -1,6 +1,6 @@
 ## Hi there - let's compile ✨
 
-```bash
+```CookieLang
 INGREDIENT flour = 200
 INGREDIENT sugar = 100
 INGREDIENT butter = 50
