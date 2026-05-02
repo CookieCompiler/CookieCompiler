@@ -6,13 +6,16 @@
 
 ---
 
-просто инди-разраб, который заставляет код, железо и нейронки работать вместе. 
+просто инди-разраб, который заставляет код, железо и нейронки работать вместе. <br>
 днем решаю алгоритмические задачки, ночью пишу асинхронные парсеры, собираю локальных ai-ассистентов на малинке и пытаюсь не переписать всё на rust (спойлер: всё равно переписываю).
 
 выживаю на хорошем басе в наушниках, чае и жестких дедлайнах 💻
 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CookieCompiler)
+<br>
 
+<a href="https://t.me/CookieCompiler">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 </div>
 
@@ -21,16 +24,12 @@
 ### 🛠 Стек технологий
 
 <div align="center">
-
-<p align="left">
-  <img src="[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)" />
-</p>
-
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
 </div>
 
 ---
@@ -38,18 +37,17 @@
 ### 📊 Моя статистика
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CookieCompiler&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="CookieCompiler's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookieCompiler&layout=compact&theme=radical&border_radius=10" alt="Top Langs" height="180px" />
+  
+  <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CookieCompiler&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="CookieCompiler's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookieCompiler&layout=compact&theme=radical&border_radius=10" alt="Top Langs" height="180px" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CookieCompiler&theme=radical&border_radius=10" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CookieCompiler&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
-### 🧠 skill tree
+
+### 🧠 Skill Tree
 
 ```mermaid
 mindmap
@@ -69,27 +67,11 @@ mindmap
         Vosk STT
         Qwen TTS
     Infrastructure
+      Hosting & Deploy
+        Render
+        cron-job
       Databases
         SQLite
       Hardware
         Raspberry Pi
         NPU accelerators
-```
-### 🐍 Aктивность
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CookieCompiler/CookieCompiler/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CookieCompiler/CookieCompiler/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CookieCompiler/CookieCompiler/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-
-<!---
-Pelmeshek11/Pelmeshek11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
