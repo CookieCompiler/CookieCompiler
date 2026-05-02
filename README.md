@@ -52,9 +52,25 @@
 
 ### 🧠 Skill Tree
 
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'background': '#000000',
+      'primaryTextColor': '#ffffff',
+      'lineColor': '#a855f7',
+      'cScale0': '#150029',
+      'cScale1': '#220042',
+      'cScale2': '#31005c',
+      'cScale3': '#43007a',
+      'cScale4': '#57009c',
+      'cScale5': '#7000c7'
+    }
+  }
+}%%
 mindmap
-  root((Stack)):::rootNode
-    Backend:::backend
+  root((Stack))
+    Backend
       Python
         aiogram 3.x
         asyncio
@@ -62,13 +78,13 @@ mindmap
       Rust
         data processing
         cli tools
-    Machine Learning:::ml
+    Machine Learning
       Local LLMs
         Gemma 4
       Audio Processing
         Vosk STT
         Qwen TTS
-    Infrastructure:::infra
+    Infrastructure
       Hosting & Deploy
         Render
         cron-job
@@ -77,9 +93,3 @@ mindmap
       Hardware
         Raspberry Pi
         NPU accelerators
-
-  classDef rootNode fill:#1E1E2E,stroke:#F9E2AF,stroke-width:3px,color:#D9E0EE;
-  classDef backend fill:#1E1E2E,stroke:#89B4FA,stroke-width:2px,color:#D9E0EE;
-  classDef ml fill:#1E1E2E,stroke:#CBA6F7,stroke-width:2px,color:#D9E0EE;
-  classDef infra fill:#1E1E2E,stroke:#FAB387,stroke-width:2px,color:#D9E0EE;
-  classDef default fill:#181825,stroke:#45475A,stroke-width:1px,color:#A6ADC8;
