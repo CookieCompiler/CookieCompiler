@@ -21,13 +21,11 @@
 
 ### 🛠 Стек технологий
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arch,docker,arduino,bash,discord,neovim,obsidian,py,rust" />
+  </a>
+</p>
 
 ---
 
@@ -41,6 +39,8 @@
 </div>
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CookieCompiler&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <picture>
