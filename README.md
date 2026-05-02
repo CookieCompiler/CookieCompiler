@@ -39,9 +39,9 @@
 </div>
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CookieCompiler&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=CookieCompiler&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CookieCompiler/CookieCompiler/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -50,46 +50,4 @@
   </picture>
 </p>
 
-### 🧠 Skill Tree
 
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'background': '#000000',
-      'primaryTextColor': '#ffffff',
-      'lineColor': '#a855f7',
-      'cScale0': '#150029',
-      'cScale1': '#220042',
-      'cScale2': '#31005c',
-      'cScale3': '#43007a',
-      'cScale4': '#57009c',
-      'cScale5': '#7000c7'
-    }
-  }
-}%%
-mindmap
-  root((Stack))
-    Backend
-      Python
-        aiogram 3.x
-        asyncio
-        scraping & parsers
-      Rust
-        data processing
-        cli tools
-    Machine Learning
-      Local LLMs
-        Gemma 4
-      Audio Processing
-        Vosk STT
-        Qwen TTS
-    Infrastructure
-      Hosting & Deploy
-        Render
-        cron-job
-      Databases
-        SQLite
-      Hardware
-        Raspberry Pi
-        NPU accelerators
