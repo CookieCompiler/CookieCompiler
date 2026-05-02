@@ -52,10 +52,9 @@
 
 ### 🧠 Skill Tree
 
-```mermaid
 mindmap
-  root((Stack))
-    Backend
+  root((Stack)):::rootNode
+    Backend:::backend
       Python
         aiogram 3.x
         asyncio
@@ -63,13 +62,13 @@ mindmap
       Rust
         data processing
         cli tools
-    Machine Learning
+    Machine Learning:::ml
       Local LLMs
         Gemma 4
       Audio Processing
         Vosk STT
         Qwen TTS
-    Infrastructure
+    Infrastructure:::infra
       Hosting & Deploy
         Render
         cron-job
@@ -78,3 +77,9 @@ mindmap
       Hardware
         Raspberry Pi
         NPU accelerators
+
+  classDef rootNode fill:#1E1E2E,stroke:#F9E2AF,stroke-width:3px,color:#D9E0EE;
+  classDef backend fill:#1E1E2E,stroke:#89B4FA,stroke-width:2px,color:#D9E0EE;
+  classDef ml fill:#1E1E2E,stroke:#CBA6F7,stroke-width:2px,color:#D9E0EE;
+  classDef infra fill:#1E1E2E,stroke:#FAB387,stroke-width:2px,color:#D9E0EE;
+  classDef default fill:#181825,stroke:#45475A,stroke-width:1px,color:#A6ADC8;
